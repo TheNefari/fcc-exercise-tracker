@@ -1,4 +1,5 @@
-# Exercise Tracker REST API try it at https://fcc-exercise-tracker-robert-mueller.glitch.me
+# Exercise Tracker REST API 
+try it at https://fcc-exercise-tracker-robert-mueller.glitch.me
 
 #### A microservice project, part of Free Code Camp's curriculum
 
